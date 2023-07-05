@@ -1,0 +1,12 @@
+[submodule "Socket-Based-Hotel-Management-System"]
+	path = Socket-Based-Hotel-Management-System
+	url = https://github.com/Hadi-loo/Socket-Based-Hotel-Management-System.git
+[submodule "ns-3-Wireless-Network-Simulation"]
+	path = ns-3-Wireless-Network-Simulation
+	url = https://github.com/Hadi-loo/ns-3-Wireless-Network-Simulation.git
+[submodule "Network-Routing-Protocols"]
+	path = Network-Routing-Protocols
+	url = https://github.com/Hadi-loo/Network-Routing-Protocols.git
+[submodule "TCP-Congestion-Control-Mechanisms"]
+	path = TCP-Congestion-Control-Mechanisms
+	url = https://github.com/Hadi-loo/TCP-Congestion-Control-Mechanisms.git
